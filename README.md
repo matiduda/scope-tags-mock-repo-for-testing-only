@@ -1,0 +1,1 @@
+Mock repository which is used by some unit tests, as it is easier to work with a mock than to create it from scratch for each test.

@@ -1,0 +1,9 @@
+{
+    "projects": [
+        {
+            "name": "Mock repository for testing",
+            "location": "tsconfig.json"
+        }
+    ],
+    "gitCommitCountLimit": 100
+}

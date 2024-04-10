@@ -1,0 +1,19 @@
+{
+    "modules": [
+        {
+            "name": "Default module",
+            "description": "Module added automatically on script initialization",
+            "exclusive": false,
+            "tags": [
+                "Tag"
+            ],
+            "parent": null,
+            "children": []
+        }
+    ],
+    "tags": [
+        {
+            "name": "Tag"
+        }
+    ]
+}

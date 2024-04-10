@@ -1,0 +1,11 @@
+{
+  "name": "mock-ts-project",
+  "version": "1.0.0",
+  "description": "Mock repository which is used by some unit tests, as it is easier to work with a mock than to create it from scratch for each test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
