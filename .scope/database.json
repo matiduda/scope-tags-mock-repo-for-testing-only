@@ -1,5 +1,8 @@
 {
-    "files": [],
+    "files": [
+        { "path": "src/tagged-file.js",
+          "tags": [
+            { "tag": "Tag", "module": "Default module" }]}],
     "ignoredFiles": [
         "src/file-ignored-by-database.js"
     ]
