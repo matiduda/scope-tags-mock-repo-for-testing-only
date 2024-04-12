@@ -5,5 +5,8 @@
             "location": "tsconfig.json"
         }
     ],
-    "gitCommitCountLimit": 100
+    "gitCommitCountLimit": 100,
+    "ignoredExtensions": [
+        ".jpg"
+    ]
 }

@@ -1,4 +1,6 @@
 {
     "files": [],
-    "ignoredFiles": []
+    "ignoredFiles": [
+        "src/file-ignored-by-database.js"
+    ]
 }
