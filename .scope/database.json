@@ -2,7 +2,19 @@
     "files": [
         { "path": "src/tagged-file.js",
           "tags": [
-            { "tag": "Tag", "module": "Default module" }]}],
+            { "tag": "Tag", "module": "Default module" }]},
+        { "path": "src/ts/controllers/controller.ts",
+          "tags": [
+            { "tag": "AController", "module": "Controllers" }]},
+        { "path": "src/ts/models/model.ts",
+          "tags": [
+            { "tag": "AModel", "module": "Models" }]},
+        { "path": "src/ts/views/modalWindow.ts",
+          "tags": [
+            { "tag": "ModalWindow", "module": "Views" }]},
+        { "path": "src/ts/views/view.ts",
+          "tags": [
+            { "tag": "AView", "module": "Views" }]}],
     "ignoredFiles": [
         "src/file-ignored-by-database.js"
     ]

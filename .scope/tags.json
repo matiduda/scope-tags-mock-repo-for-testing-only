@@ -1,6 +1,14 @@
 {
-    "modules": [
-        {
+    "modules": [{
+            "name": "Controllers",
+            "exclusive": false,
+            "tags": [
+                "AController"
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
+        }, {
             "name": "Default module",
             "description": "Module added automatically on script initialization",
             "exclusive": false,
@@ -9,11 +17,32 @@
             ],
             "parent": null,
             "children": []
+        }, {
+            "name": "Models",
+            "exclusive": false,
+            "tags": [
+                "AModel"
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
+        }, {
+            "name": "Views",
+            "exclusive": false,
+            "tags": [
+                "AView",
+                "ModalWindow"
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
         }
     ],
     "tags": [
-        {
-            "name": "Tag"
-        }
+        { "name": "AController" },
+        { "name": "AModel" },
+        { "name": "AView" },
+        { "name": "ModalWindow" },
+        { "name": "Tag" }
     ]
 }
