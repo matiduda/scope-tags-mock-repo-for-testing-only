@@ -1,8 +1,8 @@
 
 // Has 2 dependencies -> View and Model
 
-import { Model } from "../models/model";
-import { View } from "../views/view";
+import { Model } from "../models/Model";
+import { View } from "../views/View";
 
 export class Controller {
     constructor(

@@ -3,13 +3,13 @@
         { "path": "src/tagged-file.js",
           "tags": [
             { "tag": "Tag", "module": "Default module" }]},
-        { "path": "src/ts/controllers/controller.ts",
+        { "path": "src/ts/controllers/Controller.ts",
           "tags": [
             { "tag": "AController", "module": "Controllers" }]},
-        { "path": "src/ts/models/model.ts",
+        { "path": "src/ts/models/Model.ts",
           "tags": [
             { "tag": "AModel", "module": "Models" }]},
-        { "path": "src/ts/views/view.ts",
+        { "path": "src/ts/views/View.ts",
           "tags": [
             { "tag": "AView", "module": "Views" }]}],
     "ignoredFiles": [
