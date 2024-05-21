@@ -30,8 +30,7 @@
             "name": "Views",
             "exclusive": false,
             "tags": [
-                "AView",
-                "ModalWindow"
+                "AView"
             ],
             "parent": null,
             "children": [],

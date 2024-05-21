@@ -9,9 +9,6 @@
         { "path": "src/ts/models/model.ts",
           "tags": [
             { "tag": "AModel", "module": "Models" }]},
-        { "path": "src/ts/views/modalWindow.ts",
-          "tags": [
-            { "tag": "ModalWindow", "module": "Views" }]},
         { "path": "src/ts/views/view.ts",
           "tags": [
             { "tag": "AView", "module": "Views" }]}],
