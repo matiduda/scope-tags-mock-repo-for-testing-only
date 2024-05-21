@@ -1,7 +1,7 @@
 
 // Has 1 dependency -> Modal
 
-import { ModalWindow } from "./modalWindow";
+import { ModalWindow } from "./ModalWindow";
 
 export class View {
     constructor(
