@@ -3,7 +3,7 @@
             "name": "Circular Dependency Test (Module A)",
             "exclusive": false,
             "tags": [
-                "Module A",
+                "Module A"
             ],
             "parent": null,
             "children": [],
