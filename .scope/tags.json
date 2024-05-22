@@ -31,10 +31,20 @@
             "description": "Module added automatically on script initialization",
             "exclusive": false,
             "tags": [
+                "Second",
                 "Tag"
             ],
             "parent": null,
             "children": []
+        }, {
+            "name": "Default module 2",
+            "exclusive": false,
+            "tags": [
+                "Tag of default module 2"
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
         }, {
             "name": "Models",
             "exclusive": false,
@@ -62,6 +72,8 @@
         { "name": "ModalWindow" },
         { "name": "Module A" },
         { "name": "Module B" },
-        { "name": "Tag" }
+        { "name": "Second" },
+        { "name": "Tag" },
+        { "name": "Tag of default module 2" }
     ]
 }

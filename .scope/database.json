@@ -1,5 +1,10 @@
 {
     "files": [
+        { "path": "src/tagged-file-with-multiple-modules.js",
+          "tags": [
+            { "tag": "Second", "module": "Default module" },
+            { "tag": "Tag", "module": "Default module" },
+            { "tag": "Tag of default module 2", "module": "Default module 2" }]},
         { "path": "src/tagged-file.js",
           "tags": [
             { "tag": "Tag", "module": "Default module" }]},
