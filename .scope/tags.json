@@ -1,9 +1,17 @@
 {
     "modules": [{
-            "name": "Circular Dependency Test",
+            "name": "Circular Dependency Test (Module A)",
             "exclusive": false,
             "tags": [
                 "Module A",
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
+        }, {
+            "name": "Circular Dependency Test (Module B)",
+            "exclusive": false,
+            "tags": [
                 "Module B"
             ],
             "parent": null,

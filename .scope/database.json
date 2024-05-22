@@ -5,10 +5,10 @@
             { "tag": "Tag", "module": "Default module" }]},
         { "path": "src/ts/circularDependency/ModuleA.ts",
           "tags": [
-            { "tag": "Module A", "module": "Circular Dependency Test" }]},
+            { "tag": "Module A", "module": "Circular Dependency Test (Module A)" }]},
         { "path": "src/ts/circularDependency/ModuleB.ts",
           "tags": [
-            { "tag": "Module B", "module": "Circular Dependency Test" }]},
+            { "tag": "Module B", "module": "Circular Dependency Test (Module B)" }]},
         { "path": "src/ts/controllers/Controller.ts",
           "tags": [
             { "tag": "AController", "module": "Controllers" }]},
