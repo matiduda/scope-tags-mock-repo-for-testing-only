@@ -1,8 +1,10 @@
 // Has 0 dependencies
 
+import { View } from "../views/View";
+
 export class Model {
     constructor(
-        private _view:
+        private _view: View,
     ) { }
 
     doStuff() {
