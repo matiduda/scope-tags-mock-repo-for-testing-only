@@ -1,5 +1,15 @@
 {
     "modules": [{
+            "name": "Circular Dependency Test",
+            "exclusive": false,
+            "tags": [
+                "Module A",
+                "Module B"
+            ],
+            "parent": null,
+            "children": [],
+            "description": "A module containing multiple functionalities"
+        }, {
             "name": "Controllers",
             "exclusive": false,
             "tags": [
@@ -42,6 +52,8 @@
         { "name": "AModel" },
         { "name": "AView" },
         { "name": "ModalWindow" },
+        { "name": "Module A" },
+        { "name": "Module B" },
         { "name": "Tag" }
     ]
 }
